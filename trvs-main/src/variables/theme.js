@@ -1,0 +1,16 @@
+export const theme = {
+  light: "#fff",
+  dark: "#1e263d",
+  dark_red: "#720707",
+  light_red: "#9b1111",
+  dark_yellow: "#ffc71a",
+  light_yellow: "#ffea75",
+  dark_orange: "#de6d02",
+  light_orange: "#ec8d09",
+  khaki: "#e7c47c",
+  light_white: "#fffbef",
+  light_olive: "#848532",
+  dark_olive: "#697324",
+  light_green: "#003400",
+  dark_green: "#002c00",
+};
